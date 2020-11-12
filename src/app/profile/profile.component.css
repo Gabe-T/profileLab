@@ -1,6 +1,22 @@
-/* .profile {
+.profile {
   display: flex;
   flex-direction: column;
   width: 50%;
   margin: 0 auto;
-} */
+  /* text-align: center; */
+  font-size: 24px;
+}
+
+.edit-btn {
+  height: 60px;
+  font-size: 24px;
+  border-radius: 10px;
+  background-color: #505355;
+  color: #eee;
+  text-decoration: none;
+}
+
+.img {
+  height: 50vh;
+  width: 50px;
+}

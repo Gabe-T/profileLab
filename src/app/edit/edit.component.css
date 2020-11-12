@@ -4,3 +4,33 @@
   width: 50%;
   margin: 0 auto;
 }
+
+.editH2 {
+  font-size: 24px;
+}
+
+.update-btn {
+  height: 60px;
+  font-size: 24px;
+  border-radius: 10px;
+  background-color: #505355;
+  color: #eee;
+  text-decoration: none;
+}
+
+.label {
+  font-size: 24px;
+  color: #1ecefd;
+}
+
+.input {
+  height: 60px;
+  font-size: 24px;
+  border-radius: 10px;
+}
+
+.bio-input {
+  height: 200px;
+  font-size: 24px;
+  border-radius: 10px;
+}
